@@ -51,7 +51,7 @@
 * Ip do servidor: mcmarangoni.aternos.me
 
 ## EXTRA: ADICIONAR SHADERS
-* Baixe o shaders no link: https://www.patreon.com/file?h=45141775&m=88959035
+* Baixe o shaders no link: https://www.curseforge.com/minecraft/shaders/sildurs-enhanced-default/download/5442776
 * Vá nas configurações do minecraft -> Gráficos (Graphics) -> Shaders -> Pasta de Shaders
 * Arraste o arquivo baixado acima para a pasta de shaders e ative
 
