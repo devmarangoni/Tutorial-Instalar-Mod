@@ -49,3 +49,16 @@
 
 ## Como entrar no servidor
 * Ip do servidor: mcmarangoni.aternos.me
+
+## EXTRA: ADICIONAR SHADERS
+* Baixe o shaders no link: https://www.patreon.com/file?h=45141775&m=88959035
+* Vá nas configurações do minecraft -> Gráficos (Graphics) -> Shaders -> Pasta de Shaders
+* Arraste o arquivo baixado acima para a pasta de shaders e ative
+
+![image](https://github.com/user-attachments/assets/9445c758-a3a2-4a3a-99a4-16a8fe71493b)
+
+![image](https://github.com/user-attachments/assets/74d016a4-87ea-4408-ac5b-502a30189e67)
+
+![image](https://github.com/user-attachments/assets/43499d5c-da57-4d3b-a5c5-932f33a8ffcc)
+
+![image](https://github.com/user-attachments/assets/13cf3a87-1387-455f-bf0a-c9deae9190cf)
